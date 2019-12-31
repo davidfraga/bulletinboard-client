@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AngularBulletinboard
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.12.
@@ -25,3 +26,16 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# bulletinboard-client
+Angular version (client) of the Bulletin Board Application
+
+This project was developped with the following tools:
+- Angular 8 CLI
+- Node.js server
+- Visual Studio Code IDE
+- Bootstrap CSS 4.3.1
+- jw-angular-pagination
+
+type 'ng serve' on root directory (command line), and open your browser on url http://localhost:4200
+>>>>>>> 9c8e7cbaa8c068ec9ee86ae6d07bda91c5e5ebd1
